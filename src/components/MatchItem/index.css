@@ -1,0 +1,15 @@
+.match-item {
+  padding: 4px;
+}
+
+.thumbnail-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  width: 140px;
+}
+
+.thumbnail-image {
+  width: 100%;
+}

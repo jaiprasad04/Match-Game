@@ -1,0 +1,44 @@
+.nav-header {
+  background-color: #2c0e3a;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.nav-content {
+  /* flex: 1; */
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 64px;
+}
+
+.website-logo {
+  width: 160px;
+}
+
+.score-time-container {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  padding-right: 48px;
+}
+
+.score {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+
+.timer {
+  color: #fec653;
+  font-family: 'Roboto';
+  font-size: 18px;
+  margin-right: 24px;
+}
+
+.timer-logo {
+  width: 20px;
+  margin-right: 8px;
+}
